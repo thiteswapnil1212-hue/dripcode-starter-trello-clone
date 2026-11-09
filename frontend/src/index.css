@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; background: #0a0a0f; color: #f2f2f8; margin: 0; }
+.board { display: flex; gap: 12px; padding: 16px; overflow-x: auto; }
+.list { background: #14141f; border: 1px solid #222; border-radius: 12px; padding: 12px; min-width: 260px; }
+.list h2 { font-size: 15px; margin: 0 0 10px; }
+.card { background: #1e1e2e; border-radius: 8px; padding: 10px; margin-bottom: 8px; }
